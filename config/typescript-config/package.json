@@ -1,0 +1,14 @@
+{
+  "name": "@saas/tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "files": [
+    "library.json"
+  ],
+  "dependencies": {
+    "@repo/typescript-config": "file:",
+    "@saas/tsconfig": "file:",
+    "@saas/typescript-config": "file:"
+  }
+}
