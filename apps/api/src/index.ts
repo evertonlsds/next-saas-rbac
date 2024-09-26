@@ -1,1 +1,1 @@
-console.log('hello peoples')
+import { ability } from '@saas/auth'
